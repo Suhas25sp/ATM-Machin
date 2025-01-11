@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ATM {
 
-    private static double balance = 1000.0; // Initial balance
+    private static double balance = 1000.0; 
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
